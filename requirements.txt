@@ -1,0 +1,4 @@
+streamlit
+sqlite3  # Not always needed, as it's built into Python
+smtplib
+email
